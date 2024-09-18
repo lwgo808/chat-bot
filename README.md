@@ -7,7 +7,7 @@ This is a repository created by *Firstname*
 ## Usage
 
 
-Run this command to execute the application:
+Run this c
 
 
 `python filename.py
